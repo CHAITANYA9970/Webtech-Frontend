@@ -14,6 +14,7 @@ using **HTML, CSS, and JavaScript**.
 
 ## 📂 Folder Structure
 
+```
 Webtech-Frontend/
 │
 ├── day01-html-basics/
@@ -40,4 +41,4 @@ Webtech-Frontend/
 ├── day07-layout/
 │   └── containertag.html
 │
-└── README.md
+└── README.md```
